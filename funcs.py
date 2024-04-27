@@ -1,11 +1,13 @@
 def sum_number(*args):
     total = sum(args)
-    return total
+    print(total)
+
+
 
 
 def subtraction(first, second):
     result = first-second
-    return result
+    print(result)
 
 
 
