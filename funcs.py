@@ -2,5 +2,12 @@ def sum_number(*args):
     total = sum(args)
     return total
 
-result = sum_number()
-print(result)
+
+def subtraction(first, second):
+    result = first-second
+    return result
+
+
+
+
+
